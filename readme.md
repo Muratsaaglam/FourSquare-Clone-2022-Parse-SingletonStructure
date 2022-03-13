@@ -1,3 +1,4 @@
+# FourSquare Clone 2022 Parse Singleton Structure
 Singleton Structure Used with Swift 5 Technology In the FourSqare app. An application has been made that allows you to mark and save the places you travel on the map by obtaining location permission from you. Afterwards, you can revisit the places you have saved using GPS.
 
 Application Video : 
